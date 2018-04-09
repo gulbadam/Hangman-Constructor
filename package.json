@@ -1,0 +1,25 @@
+{
+  "name": "hangman-constructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulbadam/Hangman-Constructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulbadam/Hangman-Constructor/issues"
+  },
+  "homepage": "https://github.com/gulbadam/Hangman-Constructor#readme",
+  "dependencies": {
+    "boxen": "^1.3.0",
+    "chalk": "^2.3.2",
+    "figlet": "^1.2.0",
+    "inquirer": "^5.2.0"
+  }
+}
